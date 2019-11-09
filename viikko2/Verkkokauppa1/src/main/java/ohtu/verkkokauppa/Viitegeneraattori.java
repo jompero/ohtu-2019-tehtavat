@@ -1,5 +1,8 @@
 package ohtu.verkkokauppa;
 
+import org.springframework.stereotype.Component;
+
+@Component
 public class Viitegeneraattori implements IdGenerator {
     private int seuraava;
 
@@ -7,6 +10,7 @@ public class Viitegeneraattori implements IdGenerator {
         seuraava = 1;
     }
 
+    @Override
     public int uusi() {
         return seuraava++;
     }

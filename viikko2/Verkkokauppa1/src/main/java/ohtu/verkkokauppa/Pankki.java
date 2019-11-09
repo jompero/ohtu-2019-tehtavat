@@ -1,11 +1,12 @@
 package ohtu.verkkokauppa;
 
-public class Pankki implements AccountTransaction {
-    private Logger kirjanpito;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Component;
 
-    public Pankki(Logger kirjanpito) {
-        this.kirjanpito = kirjanpito;
-    }
+@Component
+public class Pankki implements AccountTransaction {
+    @Autowired
+    private Logger kirjanpito;
 
     @Override
     public boolean tilisiirto(String nimi, int viitenumero, String tililta, String tilille, int summa) {

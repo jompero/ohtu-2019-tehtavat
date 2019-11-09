@@ -1,7 +1,10 @@
 package ohtu.verkkokauppa;
 
 import java.util.*;
+import org.springframework.stereotype.Component;
 
+
+@Component
 public class Varasto implements Inventory {
     private Logger kirjanpito;
     private HashMap<Tuote, Integer> saldot;
