@@ -3,3 +3,4 @@
 1. [Viikko 1, Ohtu](https://github.com/jompero/ohtu-2019-viikko1)
 1. [Viikko 1, rest](https://github.com/jompero/ohtu-2019-tehtavat/tree/master/viikko1)
 1. [Viikko 2](https://github.com/jompero/ohtu-2019-tehtavat/tree/master/viikko2)
+1. [Viikko 3](https://github.com/jompero/ohtu-2019-tehtavat/tree/master/viikko3)
