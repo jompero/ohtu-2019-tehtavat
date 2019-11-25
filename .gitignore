@@ -2,3 +2,5 @@
 .vscode/
 **/.nb-gradle/
 **/build/
+**/.settings/
+viikko3/HelloCucumber/.settings/org.eclipse.jdt.core.prefs
