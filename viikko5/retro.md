@@ -1,0 +1,3 @@
+Start, Stop, Continue, More of, Less of Wheel (SSCML) ja Glad, Sad, Mad (GSM) -retrospektiivimetodit ovat tyyliltään saman tyyppisiä. Kummassakin tiimin jäsenet kirjoittavat ylös sprintin aikana hyvin ja huonosti menneistä asioista ja ketgorioidaan metodien nimien mukaisesti.  
+SSCML:ssä lista tosin luodaan verbaalisti ja prosessi on suhteellisen ripeä. Esille tulleista asioista käydään keskustelua ja tuumitaan toimintakohdista. Prosessiin ei pitäisi mennä kuin reilu tunti.  
+GSM:ssä asiat kirjoitetaan paperille ja sitten laitetaan ylös seinälle. Esille tulleista asioista äänneestetään mille tehdään tomintakohdat. Koko prosessilta voi mennä tunti.
