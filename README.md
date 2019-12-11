@@ -9,3 +9,4 @@
    Note that I accidentally did task 1 into the Viikko4 folder
 1. [Viikko 6](https://github.com/jompero/ohtu-2019-tehtavat/tree/master/viikko6)  
    [PULL.md](https://github.com/jompero/ohtu-2019-tehtavat/blob/master/viikko6/PULL.md) 
+1. [Viikko 7](https://github.com/jompero/ohtu-2019-tehtavat/tree/master/viikko7)
